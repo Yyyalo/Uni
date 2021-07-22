@@ -1,0 +1,11 @@
+10 Вар. Введите строку (смените шрифт на Lucida Console)
+
+Строка до сортировки
+*XyGfXxcCabdcFGLKfglk*
+Отсортированная строка 1
+*XyGfXxcCabdcFGLKfglk*
+
+Строка до сортировки
+*XyGfXxcCabdcFGLKfglk*
+Отсортированная строка 2
+*XyGfXxcCabdcFGLKfglk*

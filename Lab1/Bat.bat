@@ -1,0 +1,15 @@
+L1.exe dat1.txt res1.txt
+L1.exe dat2.txt res2.txt
+L1.exe dat3.txt res3.txt
+L1.exe dat4.txt res4.txt
+L1.exe dat5.txt res5.txt
+L1.exe dat6.txt res6.txt
+L1.exe dat7.txt res7.txt
+L1.exe dat8.txt res8.txt
+L1.exe dat9.txt res9.txt
+L1.exe dat10.txt res10.txt
+L1.exe dat11.txt res11.txt
+L1.exe dat12.txt res12.txt
+L1.exe dat13.txt res13.txt
+L1.exe dat14.txt res14.txt
+L1.exe dat15.txt res15.txt
